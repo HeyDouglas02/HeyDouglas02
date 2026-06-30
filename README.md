@@ -89,16 +89,18 @@
     <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=HeyDouglas02&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=1800" />
   </a>
   <a href="https://github.com/HeyDouglas02">
-    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=HeyDouglas02&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=1800" />
+    <img src="https://streak-stats.demolab.com?user=HeyDouglas02&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="180em" />
   </a>
 
 </div>
 
 <br>
 
+<h2 align="center">📈 Atividade ao longo do tempo</h2>
+
 <div align="center">
   
-  <img src="https://streak-stats.demolab.com?user=HeyDouglas02&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HeyDouglas02&theme=tokyo-night&hide_border=true&area=true" />
 
 </div>
 
