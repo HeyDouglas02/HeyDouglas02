@@ -1,11 +1,9 @@
-<!-- Banner / Header -->
 <div align="center">
   
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=Douglas%20Ribeiro&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Engenharia%20de%20Software%20·%20Análise%20de%20Dados%20·%20Backend&descSize=18&descAlignY=58&descAlign=50" />
 
 </div>
 
-<!-- Sobre mim -->
 <h2 align="center">👋 Sobre mim</h2>
 
 <p align="center">
@@ -17,7 +15,6 @@
 
 <br>
 
-<!-- Estatísticas dinâmicas -->
 <div align="center">
   
   <img src="https://komarev.com/ghpvc/?username=HeyDouglas02&label=Visitas%20no%20perfil&color=0e75b6&style=flat" alt="Visitas no perfil" />
@@ -27,7 +24,6 @@
 
 <br>
 
-<!-- Stack Tecnológica -->
 <h2 align="center">🛠️ Minha Stack</h2>
 
 <h3 align="center">💻 Linguagens</h3>
@@ -79,26 +75,27 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bizagi-FF6B00?style=for-the-badge&logo=bizagi&logoColor=white" />
   <img src="https://img.shields.io/badge/Scrum-6DB33F?style=for-the-badge&logo=scrumalliance&logoColor=white" />
   <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
 </p>
 
 <br>
 
-<!-- GitHub Stats -->
 <h2 align="center">📊 Estatísticas do GitHub</h2>
 
 <div align="center">
   
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HeyDouglas02&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HeyDouglas02&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+  <a href="https://github.com/HeyDouglas02">
+    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=HeyDouglas02&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=1800" />
+  </a>
+  <a href="https://github.com/HeyDouglas02">
+    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=HeyDouglas02&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=1800" />
+  </a>
 
 </div>
 
 <br>
 
-<!-- Streak Stats -->
 <div align="center">
   
   <img src="https://streak-stats.demolab.com?user=HeyDouglas02&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
@@ -107,29 +104,6 @@
 
 <br>
 
-<!-- Troféus -->
-<h2 align="center">🏆 Conquistas</h2>
-
-<div align="center">
-  
-  <img src="https://github-profile-trophy.vercel.app/?username=HeyDouglas02&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=10" />
-
-</div>
-
-<br>
-
-<!-- Snake Animation -->
-<h2 align="center">🐍 Atividade de Commits</h2>
-
-<div align="center">
-  
-  <img src="https://raw.githubusercontent.com/HeyDouglas02/HeyDouglas02/output/github-contribution-grid-snake-dark.svg" />
-
-</div>
-
-<br>
-
-<!-- Projetos em Destaque -->
 <h2 align="center">🚀 Projetos em Destaque</h2>
 
 <p align="center">
@@ -154,7 +128,6 @@
 
 <br>
 
-<!-- Contato -->
 <h2 align="center">📫 Vamos Conversar!</h2>
 
 <div align="center">
@@ -170,7 +143,6 @@
 
 <br>
 
-<!-- Footer -->
 <div align="center">
   
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=footer" />
