@@ -85,8 +85,8 @@
 
 <div align="center">
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HeyDouglas02&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&show=prs_merged,reviews&cache_seconds=1800" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HeyDouglas02&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=HeyDouglas02&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&show=prs_merged,reviews&cache_seconds=1800" />
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=HeyDouglas02&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 
 </div>
 
