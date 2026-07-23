@@ -86,23 +86,12 @@
 <div align="center">
 
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=HeyDouglas02&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&show=prs_merged,reviews&cache_seconds=1800" />
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=HeyDouglas02&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 
 </div>
 
 <div align="center">
 
   <img src="https://streak-stats.demolab.com?user=HeyDouglas02&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-
-</div>
-
-<br>
-
-<h2 align="center">Troféus</h2>
-
-<div align="center">
-
-  <img src="https://github-profile-trophy.vercel.app/?username=HeyDouglas02&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" />
 
 </div>
 
