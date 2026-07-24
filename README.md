@@ -7,7 +7,7 @@
 <h2 align="center">Sobre mim</h2>
 
 <p align="center">
-  Estudante de <b>Engenharia de Software</b> na UniBrasil, 3º período. <br>
+  Estudante de <b>Engenharia de Software</b> na UniBrasil, 4º período. <br>
   Estagiário de <b>TI e Análise de Dados</b> no <b>DETRAN-PR</b>. <br>
   Curitiba, Paraná. <br>
   No dia a dia mexo com <b>Python</b>, <b>SQL</b>, <b>Java</b> e <b>BI</b> pra resolver problema real.
@@ -85,7 +85,7 @@
 
 <div align="center">
 
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=HeyDouglas02&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&show=prs_merged,reviews&cache_seconds=1800" />
+  <img height="180em" src="https://github-readme-stats-pink-delta-37.vercel.app/api?username=HeyDouglas02&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&show=prs_merged,reviews&cache_seconds=1800" />
 
 </div>
 
